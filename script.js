@@ -1,0 +1,1 @@
+console.log("The first message of the page")
